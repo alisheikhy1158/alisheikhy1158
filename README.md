@@ -1,5 +1,5 @@
 # 💫 About Me:
-CUI | SE '27  | AI/ML | Full Stack Developer 
+Software Engineering @ Comsats Univeristy Islamabad '27  | AI/ML | Full Stack Developer 
 
 
 ## 🌐 Socials:
