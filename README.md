@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineering @ Comsats Univeristy Islamabad '27  | AI/ML | Full Stack Developer 
+Software Engineering Student @ Comsats Univeristy Islamabad (2027)  | AI/ML | Full Stack Developer 
 
 
 ## 🌐 Socials:
